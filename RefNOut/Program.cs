@@ -7,7 +7,7 @@ namespace RefNOut
         static void Main(string[] args)
         {
             //Out keyword için örnek
-            //Indirim oranı kullanıcının statüsüne göre değiştiği için bunu metod içinde belirliyoruz.
+            //Indirim oranı kullanıcının statüsüne göre değiştiği için bunu metod içinde belirliyoruz..
             double dsRate= DiscountRate(out double dcr);
             Console.WriteLine("Eğer Vip user ise indirim oranı %30 değilse %25: "+dsRate);
 
