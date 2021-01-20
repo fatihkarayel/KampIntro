@@ -27,5 +27,14 @@ namespace ClassMetotDemo
             Console.WriteLine("\n");
 
         }
+        //public List<Musteri> GetList()
+        //{
+        //    Musteri musteriler = new Musteri();
+        //    foreach (Musteri musteri in musteriler)
+        //    {
+
+        //    }
+        //    return null;
+        //}
     }
 }
